@@ -2921,19 +2921,26 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "7398dff4-fbe7-4df4-8f47-8ad768303ab4")
-		(property "LCSC" "C160402"
+		(property "DNP" "Yes"
 			(at 177.8 143.9672 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "MPN" "SM02B-SRSS-TB(LF)(SN)"
+		(property "LCSC" ""
+			(at 177.8 143.9672 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "MPN" ""
 			(at 177.8 143.9672 0)
 			(hide yes)
 			(show_name no)
@@ -4214,19 +4221,26 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "d23b6811-62b8-442f-a960-c2cbd0d88a76")
-		(property "LCSC" "C160402"
+		(property "DNP" "Yes"
 			(at 177.8 128.7272 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "MPN" "SM02B-SRSS-TB(LF)(SN)"
+		(property "LCSC" ""
+			(at 177.8 128.7272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "MPN" ""
 			(at 177.8 128.7272 0)
 			(hide yes)
 			(show_name no)

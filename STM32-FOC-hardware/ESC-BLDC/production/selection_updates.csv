@@ -49,6 +49,7 @@ ESC-BLDC.kicad_sch,"P7,P8",MPN,BM02B-SRSS-TB(LF)(SN),SM02B-SRSS-TB(LF)(SN),Corre
 ESC-BLDC.kicad_sch,"P7,P8",LCSC,C160388,C160402,Correct vertical top-entry selection to horizontal right-angle SMD connector with rear contact pads.
 ESC-BLDC.kicad_sch,P9,MPN,BM04B-SRSS-TB(LF)(SN),SM04B-SRSS-TB(LF)(SN),Correct vertical top-entry selection to horizontal right-angle SMD connector with rear contact pads.
 ESC-BLDC.kicad_sch,P9,LCSC,C160390,C160404,Correct vertical top-entry selection to horizontal right-angle SMD connector with rear contact pads.
+ESC-BLDC.kicad_sch,"P6,P7,P8,P9",DNP,,Yes,Do not assemble connector footprints; leave pads available for a future correctly oriented manual solution.
 ESC-BLDC.kicad_sch,C42,Value,560pF,220pF,Match C41 in the symmetric CAN-H/CAN-L 120ohm RC filter while using stocked Basic C1530.
 ESC-BLDC.kicad_sch,C42,Description,"Chip capacitor; 560pF; 10%; 50V; 0402",220pF 50V X7R ±10% 0402 MLCC,Match C41 in the symmetric CAN-H/CAN-L 120ohm RC filter while using stocked Basic C1530.
 ESC-BLDC.kicad_sch,C42,LCSC,C778322,C1530,Match C41 in the symmetric CAN-H/CAN-L 120ohm RC filter while using stocked Basic C1530.

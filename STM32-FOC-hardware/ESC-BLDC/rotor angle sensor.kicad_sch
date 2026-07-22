@@ -2356,19 +2356,26 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "65ef52d2-663c-4436-b6c0-474288745627")
-		(property "LCSC" "C136657"
+		(property "DNP" "Yes"
 			(at 53.34 121.1072 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "MPN" "SM05B-SRSS-TB(LF)(SN)"
+		(property "LCSC" ""
+			(at 53.34 121.1072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "MPN" ""
 			(at 53.34 121.1072 0)
 			(hide yes)
 			(show_name no)

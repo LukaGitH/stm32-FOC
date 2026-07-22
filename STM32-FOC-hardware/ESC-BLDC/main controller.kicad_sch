@@ -10987,19 +10987,26 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "c17f12bc-538c-4617-9fad-f23460145da2")
-		(property "LCSC" "C160404"
+		(property "DNP" "Yes"
 			(at 175.26 60.1472 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "MPN" "SM04B-SRSS-TB(LF)(SN)"
+		(property "LCSC" ""
+			(at 175.26 60.1472 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "MPN" ""
 			(at 175.26 60.1472 0)
 			(hide yes)
 			(show_name no)

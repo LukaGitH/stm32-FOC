@@ -34,9 +34,6 @@ U6 are exact manufacturer-part matches, not replacements.
 | References | Selected part | LCSC | Decision |
 |---|---|---|---|
 | P1, P2 | Amass XT30PW-M30.G.Y | C431092 | 2-pin male XT30 power connector; verify pad geometry against the board footprint before ordering. |
-| P6 | JST SM05B-SRSS-TB(LF)(SN) | C136657 | Exact 5-pin SH-series, 1 mm-pitch right-angle SMD connector; rear contact pads match `SH-5P-SIDE`. |
-| P7, P8 | JST SM02B-SRSS-TB(LF)(SN) | C160402 | Exact 2-pin SH-series, 1 mm-pitch right-angle SMD connector; rear contact pads match `SH-2P-SIDE`. |
-| P9 | JST SM04B-SRSS-TB(LF)(SN) | C160404 | Exact 4-pin SH-series, 1 mm-pitch right-angle SMD connector; rear contact pads match `SH-04-SIDE`. |
 
 ## Requires circuit decision before sourcing
 
@@ -61,8 +58,8 @@ U6 are exact manufacturer-part matches, not replacements.
 ## Excluded by design
 
 J1 and J2 are solder jumpers. P3, P4, and P5 are solder pads; R30 is a manual
-solder bridge; and P10 is not fitted. They are DNP/not in BOM and need no LCSC
-purchase assignment.
+solder bridge; P6–P9 are unpopulated connector footprints; and P10 is not
+fitted. They are DNP/not in BOM and need no LCSC purchase assignment.
 
 ## CAN filter matching
 
