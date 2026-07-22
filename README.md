@@ -31,7 +31,7 @@ Built using **PlatformIO**, **STM32 HAL/LL drivers**, and **FreeRTOS**, this pro
 - STM32Cube HAL & LL Drivers  
 - FreeRTOS (via PlatformIO package)  
 - VS Code + Serial Monitor for debugging
-- Altium Designer (for Hardware) you can see in STM32-FOC-hardware.zip
+- KiCad 9 (hardware project in [`STM32-FOC-hardware/ESC-BLDC`](STM32-FOC-hardware/ESC-BLDC))
 - ACTUATOR CONTROL APP in controller_app.zip
 
 ---

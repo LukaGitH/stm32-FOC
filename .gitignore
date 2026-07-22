@@ -3,3 +3,21 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+
+# Local KiCad state and automatic backups
+STM32-FOC-hardware/ESC-BLDC/*.kicad_prl
+STM32-FOC-hardware/ESC-BLDC/ESC-BLDC-backups/
+STM32-FOC-hardware/ESC-BLDC/production/scripts/__pycache__/
+STM32-FOC-hardware/ESC-BLDC/production/*_changes.csv
+STM32-FOC-hardware/ESC-BLDC/production/*_change.csv
+STM32-FOC-hardware/ESC-BLDC/production/*_verification.csv
+STM32-FOC-hardware/ESC-BLDC/production/unresolved_components.csv
+STM32-FOC-hardware/ESC-BLDC/production/export/*_summary.txt
+stm32_FOC_JLCPCB_changes_summary.md
+
+# Superseded Altium source files are intentionally kept out of this KiCad-only fork.
+STM32-FOC-hardware.zip
+STM32-FOC-hardware/*.PcbDoc
+STM32-FOC-hardware/*.SchDoc
+STM32-FOC-hardware/*.PrjPcb
+STM32-FOC-hardware/*.PrjPcbStructure

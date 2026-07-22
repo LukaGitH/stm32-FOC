@@ -1,0 +1,95 @@
+﻿Sheet,Reference,Field,Old,New,Reason
+gate driver.kicad_sch,C1,Value,120pF,100pF,Use stocked Basic 100pF C0G part as closest replacement for 120pF.
+gate driver.kicad_sch,C1,Description,"Chip capacitor, 120pF, 10%, 16V, 0402",100pF 50V C0G ±5% 0402 MLCC,Use stocked Basic 100pF C0G part as closest replacement for 120pF.
+gate driver.kicad_sch,C1,Manufacturer,,FH (Guangdong Fenghua Advanced Tech),Use stocked Basic 100pF C0G part as closest replacement for 120pF.
+gate driver.kicad_sch,C1,MPN,,0402CG101J500NT,Use stocked Basic 100pF C0G part as closest replacement for 120pF.
+gate driver.kicad_sch,C1,LCSC,,C1546,Use stocked Basic 100pF C0G part as closest replacement for 120pF.
+gate driver.kicad_sch,C1,JLCPCB Class,,Basic,Use stocked Basic 100pF C0G part as closest replacement for 120pF.
+gate driver.kicad_sch,C1,CASE/PACKAGE,0402,0402,Use stocked Basic 100pF C0G part as closest replacement for 120pF.
+gate driver.kicad_sch,C1,TOLERANCE,10%,5%,Use stocked Basic 100pF C0G part as closest replacement for 120pF.
+gate driver.kicad_sch,C1,VOLTAGE RATING,16V,50V,Use stocked Basic 100pF C0G part as closest replacement for 120pF.
+gate driver.kicad_sch,R5,Value,10k,12k,Approved stocked 12k Basic replacement for unavailable 10k selection.
+gate driver.kicad_sch,R5,Description,"Chip resistor, 10k, 1%, 62.5mW, 50V, 0402","Chip resistor, 12k, 1%, 62.5mW, 50V, 0402",Approved stocked 12k Basic replacement for unavailable 10k selection.
+gate driver.kicad_sch,R5,Manufacturer,UNI-ROYAL(Uniroyal Elec),UNI-ROYAL(Uniroyal Elec),Approved stocked 12k Basic replacement for unavailable 10k selection.
+gate driver.kicad_sch,R5,MPN,0402WGF1002TCE,0402WGF1202TCE,Approved stocked 12k Basic replacement for unavailable 10k selection.
+gate driver.kicad_sch,R5,LCSC,C25744,C25752,Approved stocked 12k Basic replacement for unavailable 10k selection.
+gate driver.kicad_sch,R5,JLCPCB Class,Basic,Basic,Approved stocked 12k Basic replacement for unavailable 10k selection.
+gate driver.kicad_sch,R5,RESISTANCE,,12k,Approved stocked 12k Basic replacement for unavailable 10k selection.
+gate driver.kicad_sch,R5,TOLERANCE,1%,1%,Approved stocked 12k Basic replacement for unavailable 10k selection.
+gate driver.kicad_sch,R5,POWER,62.5mW,62.5mW,Approved stocked 12k Basic replacement for unavailable 10k selection.
+gate driver.kicad_sch,D1,Value,B330A-13-F,SS34,Approved JLCPCB SS34 replacement for B330A-13-F.
+gate driver.kicad_sch,D1,Description,DIODE SCHOTTKY 30V 3A SMA,"Schottky diode, 40V, 3A, SMA (DO-214AC)",Approved JLCPCB SS34 replacement for B330A-13-F.
+gate driver.kicad_sch,D1,Manufacturer,,MDD(Microdiode Semiconductor),Approved JLCPCB SS34 replacement for B330A-13-F.
+gate driver.kicad_sch,D1,MPN,,SS34,Approved JLCPCB SS34 replacement for B330A-13-F.
+gate driver.kicad_sch,D1,LCSC,,C8678,Approved JLCPCB SS34 replacement for B330A-13-F.
+gate driver.kicad_sch,D1,JLCPCB Class,,Basic,Approved JLCPCB SS34 replacement for B330A-13-F.
+gate driver.kicad_sch,D1,CASE/PACKAGE,,SMA,Approved JLCPCB SS34 replacement for B330A-13-F.
+power MOSFET.kicad_sch,R12,Value,39k,33k,Use stocked Basic 33k 0603 resistor for the VBUS ADC divider.
+power MOSFET.kicad_sch,R12,LCSC,,C4216,0603WAF3302T5E is a stocked Basic 33k 0603 resistor.
+power MOSFET.kicad_sch,R13,Value,2k2,2k,Keep the VBUS ADC divider ratio close to the original with stocked Basic 0603 parts.
+power MOSFET.kicad_sch,R13,LCSC,C4190,C22975,0603WAF2001T5E is a stocked Basic 2k 0603 resistor.
+lib/DRV8302_Driver/DRV8302_config.h,ADC_2_POWER_VOLT,0.01651611328125f,0.01409912109375f,Match the VBUS ADC conversion to the selected 33k/2k divider.
+power MOSFET.kicad_sch,"R23,R24",LCSC,,C316229,Use the same stocked 10mΩ 1% 2W 2512 current-sense resistor for both phase shunts.
+power MOSFET.kicad_sch,"R23,R24",MPN,,RLP25FEER010,TA-I Tech 10mΩ 1% 2W 2512 current-sense resistor.
+main controller.kicad_sch,X1,LCSC,C91581,C2659482,Use in-stock Murata 12MHz SMD3213-3P resonator with built-in 33pF capacitors.
+main controller.kicad_sch,X1,MPN,,CSTNE12M0G55Z000R0,In-stock Murata 12MHz resonator compatible with the existing 3-pad footprint.
+gate driver.kicad_sch,C11,LCSC,C49055480,C1532,Use stocked Basic 22nF 50V X7R 0402 part that JLCPCB matches automatically.
+gate driver.kicad_sch,C11,MPN,,0402B223K500NT,Use stocked Basic 22nF 50V X7R 0402 part that JLCPCB matches automatically.
+gate driver.kicad_sch,L1,LCSC,C42462944,C6824612,Use the user-confirmed in-stock 6.8mm x 6.8mm 22uH option.
+src/Core/Inc/stm32f4xx_hal_conf.h,HSE_VALUE,16000000U,12000000U,Match firmware clock calculations to the fitted 12MHz resonator.
+main controller.kicad_sch,USB1,LCSC,,C3025063,User-approved GCT USB4105-GF-A-060 right-angle 12-contact USB-C receptacle.
+main controller.kicad_sch,USB1,MPN,,USB4105-GF-A-060,User-approved GCT USB-C receptacle matching the A40-00119 footprint family.
+ESC-BLDC.kicad_sch,P6,MPN,BM05B-SRSS-TB(LF)(SN),SM05B-SRSS-TB(LF)(SN),Correct vertical top-entry selection to horizontal right-angle SMD connector with rear contact pads.
+ESC-BLDC.kicad_sch,P6,LCSC,C160391,C136657,Correct vertical top-entry selection to horizontal right-angle SMD connector with rear contact pads.
+ESC-BLDC.kicad_sch,"P7,P8",MPN,BM02B-SRSS-TB(LF)(SN),SM02B-SRSS-TB(LF)(SN),Correct vertical top-entry selection to horizontal right-angle SMD connector with rear contact pads.
+ESC-BLDC.kicad_sch,"P7,P8",LCSC,C160388,C160402,Correct vertical top-entry selection to horizontal right-angle SMD connector with rear contact pads.
+ESC-BLDC.kicad_sch,P9,MPN,BM04B-SRSS-TB(LF)(SN),SM04B-SRSS-TB(LF)(SN),Correct vertical top-entry selection to horizontal right-angle SMD connector with rear contact pads.
+ESC-BLDC.kicad_sch,P9,LCSC,C160390,C160404,Correct vertical top-entry selection to horizontal right-angle SMD connector with rear contact pads.
+ESC-BLDC.kicad_sch,C42,Value,560pF,220pF,Match C41 in the symmetric CAN-H/CAN-L 120ohm RC filter while using stocked Basic C1530.
+ESC-BLDC.kicad_sch,C42,Description,"Chip capacitor; 560pF; 10%; 50V; 0402",220pF 50V X7R ±10% 0402 MLCC,Match C41 in the symmetric CAN-H/CAN-L 120ohm RC filter while using stocked Basic C1530.
+ESC-BLDC.kicad_sch,C42,LCSC,C778322,C1530,Match C41 in the symmetric CAN-H/CAN-L 120ohm RC filter while using stocked Basic C1530.
+ESC-BLDC.kicad_sch,C42,MPN,,0402B221K500NT,Match C41 in the symmetric CAN-H/CAN-L 120ohm RC filter while using stocked Basic C1530.
+gate driver.kicad_sch,D1,WORKING REVERSE VOLTAGE,30V,40V,Approved JLCPCB SS34 replacement for B330A-13-F.
+main controller.kicad_sch,DS2,Value,LTST-C190KSKT,KT-0603R,Approved Basic 0603 red LED replacement.
+main controller.kicad_sch,DS2,Description,"LED Uni-Color Yellow, 75 mW, 30 mA, -30 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel","Red water-clear LED, 0603, 20mA, 1.8V to 2.4V",Approved Basic 0603 red LED replacement.
+main controller.kicad_sch,DS2,Manufacturer,,Hubei KENTO Elec,Approved Basic 0603 red LED replacement.
+main controller.kicad_sch,DS2,MPN,,KT-0603R,Approved Basic 0603 red LED replacement.
+main controller.kicad_sch,DS2,LCSC,,C2286,Approved Basic 0603 red LED replacement.
+main controller.kicad_sch,DS2,JLCPCB Class,,Basic,Approved Basic 0603 red LED replacement.
+main controller.kicad_sch,DS2,CASE/PACKAGE,0603,0603,Approved Basic 0603 red LED replacement.
+main controller.kicad_sch,DS2,FORWARD CURRENT,20mA,20mA,Approved Basic 0603 red LED replacement.
+main controller.kicad_sch,DS2,POWER,75mW,40mW,Approved Basic 0603 red LED replacement.
+main controller.kicad_sch,D12,Value,1N4007 SMD,M7,Selected SMD 1N4007-equivalent in SMA package.
+main controller.kicad_sch,D12,Description,"Rectifier, 1Kv, 1A, Do-214Ac Rohs Compliant: Yes","General-purpose rectifier diode, 1kV, 1A, SMA",Selected SMD 1N4007-equivalent in SMA package.
+main controller.kicad_sch,D12,Manufacturer,,Shenzhen Jinkaisheng Elec,Selected SMD 1N4007-equivalent in SMA package.
+main controller.kicad_sch,D12,MPN,,1N4007(M7)SMA,Selected SMD 1N4007-equivalent in SMA package.
+main controller.kicad_sch,D12,LCSC,,C2972759,Selected SMD 1N4007-equivalent in SMA package.
+main controller.kicad_sch,D12,JLCPCB Class,,Extended,Selected SMD 1N4007-equivalent in SMA package.
+main controller.kicad_sch,D12,CASE/PACKAGE,,SMA,Selected SMD 1N4007-equivalent in SMA package.
+ESC-BLDC.kicad_sch,C41,Value,560pF,220pF,"User-selected C1530; verified code is 220pF, not 2200pF."
+ESC-BLDC.kicad_sch,C41,Description,"Chip capacitor, 560pF, 10%, 50V, 0402",220pF 50V X7R ±10% 0402 MLCC,"User-selected C1530; verified code is 220pF, not 2200pF."
+ESC-BLDC.kicad_sch,C41,Manufacturer,,FH (Guangdong Fenghua Advanced Tech),"User-selected C1530; verified code is 220pF, not 2200pF."
+ESC-BLDC.kicad_sch,C41,MPN,,0402B221K500NT,"User-selected C1530; verified code is 220pF, not 2200pF."
+ESC-BLDC.kicad_sch,C41,LCSC,,C1530,"User-selected C1530; verified code is 220pF, not 2200pF."
+ESC-BLDC.kicad_sch,C41,JLCPCB Class,,Basic,"User-selected C1530; verified code is 220pF, not 2200pF."
+ESC-BLDC.kicad_sch,C41,CASE/PACKAGE,0402,0402,"User-selected C1530; verified code is 220pF, not 2200pF."
+ESC-BLDC.kicad_sch,C41,TOLERANCE,10%,10%,"User-selected C1530; verified code is 220pF, not 2200pF."
+ESC-BLDC.kicad_sch,C41,VOLTAGE RATING,50V,50V,"User-selected C1530; verified code is 220pF, not 2200pF."
+gate driver.kicad_sch,J1,DNP,,Yes,"Solder bridge, not a purchased or assembled component."
+gate driver.kicad_sch,J1,Description,JUMPER,Solder jumper; not a fitted component,"Solder bridge, not a purchased or assembled component."
+gate driver.kicad_sch,J1,JLCPCB Class,,Not assembled,"Solder bridge, not a purchased or assembled component."
+gate driver.kicad_sch,J1,in_bom,yes,no,"Solder bridge, not a purchased or assembled component."
+gate driver.kicad_sch,J1,in_pos_files,yes,no,"Solder bridge, not a purchased or assembled component."
+gate driver.kicad_sch,J1,dnp,no,yes,"Solder bridge, not a purchased or assembled component."
+gate driver.kicad_sch,J2,DNP,,Yes,"Solder bridge, not a purchased or assembled component."
+gate driver.kicad_sch,J2,Description,JUMPER,Solder jumper; not a fitted component,"Solder bridge, not a purchased or assembled component."
+gate driver.kicad_sch,J2,JLCPCB Class,,Not assembled,"Solder bridge, not a purchased or assembled component."
+gate driver.kicad_sch,J2,in_bom,yes,no,"Solder bridge, not a purchased or assembled component."
+gate driver.kicad_sch,J2,in_pos_files,yes,no,"Solder bridge, not a purchased or assembled component."
+gate driver.kicad_sch,J2,dnp,no,yes,"Solder bridge, not a purchased or assembled component."
+power MOSFET.kicad_sch,P4,DNP,,Yes,"Solder pad, not a purchased or assembled component."
+power MOSFET.kicad_sch,P4,Description,,Solder/test pad; not a fitted component,"Solder pad, not a purchased or assembled component."
+power MOSFET.kicad_sch,P4,JLCPCB Class,,Not assembled,"Solder pad, not a purchased or assembled component."
+power MOSFET.kicad_sch,P4,in_bom,yes,no,"Solder pad, not a purchased or assembled component."
+power MOSFET.kicad_sch,P4,in_pos_files,yes,no,"Solder pad, not a purchased or assembled component."
+power MOSFET.kicad_sch,P4,dnp,no,yes,"Solder pad, not a purchased or assembled component."

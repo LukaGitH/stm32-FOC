@@ -1,0 +1,14 @@
+# STM32 FOC hardware
+
+This fork's hardware source is KiCad-only.
+
+- Open `ESC-BLDC/ESC-BLDC.kicad_pro` in KiCad 9.
+- The complete schematic hierarchy and PCB are in `ESC-BLDC/`.
+- Ready-to-upload JLCPCB BOM and CPL files are in `ESC-BLDC/production/export/`.
+- `ESC-BLDC/production/original_vs_kicad_component_comparison.csv` is the
+  reference-by-reference comparison of original Altium values/packages and the
+  current KiCad selections.
+- `Project Outputs for ESC-BLDC.zip` is the existing Gerber archive, retained
+  unchanged for traceability.
+
+The previous Altium source files are deliberately excluded from this repository.

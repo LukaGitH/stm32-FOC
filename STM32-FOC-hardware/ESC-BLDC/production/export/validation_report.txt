@@ -1,0 +1,12 @@
+STM32 FOC JLCPCB production validation
+========================================
+Schematics checked: 5
+Assembled non-power references: 124
+References with LCSC: 124
+BOM references exported: 124
+CPL references exported: 124
+
+Issue summary:
+  ERROR: 0
+  WARNING: 0
+  MISSING: 0
