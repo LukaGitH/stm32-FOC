@@ -9996,7 +9996,7 @@
 			)
 		)
 
-		(property "MPN" "0402WGF2201TCE"
+		(property "MPN" "0402WGF2001TCE"
 			(at 256.54 149.0472 0)
 			(hide yes)
 			(show_name no)
@@ -13122,7 +13122,7 @@
 			)
 		)
 
-		(property "MPN" "0402WGF2201TCE"
+		(property "MPN" "0402WGF2001TCE"
 			(at 71.12 149.0472 0)
 			(hide yes)
 			(show_name no)
@@ -15921,7 +15921,7 @@
 			)
 		)
 
-		(property "MPN" "0402WGF2201TCE"
+		(property "MPN" "0402WGF2001TCE"
 			(at 162.56 149.0472 0)
 			(hide yes)
 			(show_name no)

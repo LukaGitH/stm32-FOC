@@ -25,8 +25,8 @@ Outputs:
 
 - 5 schematic sheets parsed successfully
 - 131 placed non-power references found, including DNP/manual items
-- 124 fitted references, all with LCSC assignments
-- 53 grouped JLCPCB BOM rows and 124 matching CPL rows
+- 120 fitted references, all with LCSC assignments
+- 50 grouped JLCPCB BOM rows and 120 matching CPL rows
 - 0 validation errors or warnings
 
 The BOM exporter reads `Value`, `Footprint`, `Manufacturer`, `MPN`, `LCSC`,
@@ -43,3 +43,6 @@ Placement`, in millimetres and with both sides enabled.
 spreadsheet. It preserves the imported `ALTIUM_VALUE` and package metadata next
 to the current KiCad value, footprint, selected manufacturer part, LCSC code,
 and assembly state.
+
+`symmetry_and_sourcing_review.md` records the second-pass check of matched
+component groups, divider ratios, and the remaining Extended selections.

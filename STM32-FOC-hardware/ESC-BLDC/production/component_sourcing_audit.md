@@ -27,7 +27,7 @@ U6 are exact manufacturer-part matches, not replacements.
 | U3 | AMS AS5047P-ATSM, TSSOP-14 | C962063 | Exact manufacturer part. |
 | U4 | JSMSEMI MCP2551-I/SN-JSM, SOP-8 | C46596284 | 5 V, 1 Mb/s MCP2551-compatible CAN transceiver. |
 | U5 | ST USBLC6-2SC6Y, SOT-23-6L | C2969755 | Exact manufacturer part; JLC may require an assembly fixture. |
-| X1 | CSTCE12M0G55-R0, SMD3213-3P | C91581 | Exact resonator is listed with zero stock. |
+| X1 | Murata CSTNE12M0G55Z000R0, SMD3213-3P | C2659482 | Selected 12 MHz resonator; verify live stock at order placement. |
 
 ## Connector sourcing selections
 
@@ -39,8 +39,12 @@ U6 are exact manufacturer-part matches, not replacements.
 
 - R7/R8: DRV8302 OC_ADJ divider selected for an approximately 20 A hot-device
   trip target: R7/RA = 39 kΩ (`C163424`, 0603, Extended), R8/RB = 1 kΩ
-  (`C21190`, 0603, Basic). Both J1 and J2 solder bridges must be closed to
-  connect the divider to OC_ADJ.
+  (`C21190`, 0603, Basic). The second-pass review found no verified Basic
+  39 kΩ 0603 replacement. Retain this pair: changing R7 alone to 36 kΩ would
+  raise the OC_ADJ threshold by 8.1%; changing both to 36 kΩ / 910 Ω would
+  keep it within 1.4%, but does not remove the order's Extended-part setup
+  because L1, the MOSFETs, and specialised parts remain Extended. Both J1 and
+  J2 solder bridges must be closed to connect the divider to OC_ADJ.
 - R12/R13: VBUS ADC divider selected as 33 kΩ / 2 kΩ, both 0603 Basic parts
   (`C4216` / `C22975`). Firmware conversion is set to 0.01409912109375 V per
   ADC count for this divider.
