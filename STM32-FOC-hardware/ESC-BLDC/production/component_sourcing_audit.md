@@ -50,8 +50,8 @@ U6 are exact manufacturer-part matches, not replacements.
 - R23/R24: selected TA-I Tech RLP25FEER010, 10 mΩ, 1%, 2 W, 2512
   (`C316229`, Extended). Firmware remains calibrated for 10 mΩ. At 20 A RMS a
   shunt dissipates 4 W, exceeding this component's continuous rating.
-- L1: selected ZEPI.0630A.220MT, 22 µH, 3 A rated, 3.5 A saturation, 126 mΩ,
-  7.1 × 6.6 mm (`C42462944`). Verify land-pattern fit on the first assembled board.
+- L1: selected SL0650-220M, 22 µH, 3 A rated, 5 A saturation, 98 mΩ,
+  7.1 × 6.6 mm (`C22463831`). Exact land-pattern size match to the existing footprint.
 - X1: selected Murata CSTNE12M0G55Z000R0, 12 MHz, 30 Ω, 33 pF built-in
   capacitors, SMD3213-3P (`C2659482`, Extended). Firmware HSE_VALUE is 12 MHz.
 - USB1: selected GCT USB4105-GF-A-060, USB 2.0 Type-C receptacle, 12 contact,

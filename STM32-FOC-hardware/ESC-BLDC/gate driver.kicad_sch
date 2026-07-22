@@ -7450,14 +7450,14 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1c6e8d7a-dd5b-4497-9259-1f8c3a2fa7ed")
-		(property "LCSC" "C42462944"
+		(property "LCSC" "C22463831"
 			(at 220.98 90.6272 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "MPN" "ZEPI.0630A.220MT"
+		(property "MPN" "SL0650-220M"
 			(at 220.98 90.6272 0)
 			(hide yes)
 			(show_name no)
@@ -7508,7 +7508,7 @@
 				)
 			)
 		)
-		(property "Description" "Molded shielded inductor, 22uH, 3A rated, 3.5A saturation, 126mΩ, 7.1x6.6mm"
+		(property "Description" "Molded shielded inductor, 22uH, 3A rated, 5A saturation, 98mΩ, 7.1x6.6mm"
 			(at 220.98 90.6272 0)
 			(hide yes)
 			(show_name no)
@@ -7555,7 +7555,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "MAX DC CURRENT" "2.9A"
+		(property "MAX DC CURRENT" "3A"
 			(at 220.472 89.3572 90)
 			(hide yes)
 			(show_name no)
@@ -7663,7 +7663,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "DC RESISTANCE (DCR)" "135mR"
+		(property "DC RESISTANCE (DCR)" "98mR"
 			(at 220.472 89.3572 90)
 			(hide yes)
 			(show_name no)
@@ -7687,7 +7687,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "RMS CURRENT (IRMS)" "2.9A"
+		(property "RMS CURRENT (IRMS)" "3A"
 			(at 220.472 89.3572 90)
 			(hide yes)
 			(show_name no)
@@ -7723,7 +7723,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "SATURATION CURRENT" "2.5A"
+		(property "SATURATION CURRENT" "5A"
 			(at 220.472 89.3572 90)
 			(hide yes)
 			(show_name no)
@@ -7735,7 +7735,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "LENGTH" "7.24mm"
+		(property "LENGTH" "7.1mm"
 			(at 220.472 89.3572 90)
 			(hide yes)
 			(show_name no)
@@ -7747,7 +7747,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "DEPTH" "6.72mm"
+		(property "DEPTH" "6.6mm"
 			(at 220.472 89.3572 90)
 			(hide yes)
 			(show_name no)

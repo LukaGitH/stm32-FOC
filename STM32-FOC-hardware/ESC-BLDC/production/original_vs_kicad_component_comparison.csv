@@ -30,7 +30,7 @@ gate driver.kicad_sch,C18,2.2nF,0402,1nF,CAPC0402(1005)60_L,0402B102K500NT,C1523
 gate driver.kicad_sch,D1,200pF,SMA,SS34,FP-SMA-MFG,SS34,C8678,Basic,Fitted,Yes
 gate driver.kicad_sch,J1,JUMPER,,JUMPER,JUMPER,,,Not assembled,DNP / manual,No
 gate driver.kicad_sch,J2,JUMPER,,JUMPER,JUMPER,,,Not assembled,DNP / manual,No
-gate driver.kicad_sch,L1,22uH,2525,22uH,FP-IHLP-2525CZ-FP_2_413x3-MFG,ZEPI.0630A.220MT,C6824612,,Fitted,No
+gate driver.kicad_sch,L1,22uH,2525,22uH,FP-IHLP-2525CZ-FP_2_413x3-MFG,SL0650-220M,C22463831,,Fitted,No
 gate driver.kicad_sch,R1,15k,0402,15k,RESC1005X40X25ML10T10,0402WGF1502TCE,C25756,Basic,Fitted,No
 gate driver.kicad_sch,R2,18k,0603,18k,RESC1608X55X25ML10T15,0603WAF1802T5E,C25810,Basic,Fitted,No
 gate driver.kicad_sch,R3,200k,0402,200k,RESC0402(1005)_L,0402WGF2003TCE,C25764,Basic,Fitted,No

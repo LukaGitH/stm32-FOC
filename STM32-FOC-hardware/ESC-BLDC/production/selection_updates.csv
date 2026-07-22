@@ -38,7 +38,8 @@ gate driver.kicad_sch,C11,MPN,,0402B223K500NT,Use stocked Basic 22nF 50V X7R 040
 gate driver.kicad_sch,C10,Value,2.2uF,4.7uF,Use the user-selected stocked Basic C23733 for stronger local decoupling.
 gate driver.kicad_sch,C10,LCSC,C3870388,C23733,Use the user-selected stocked Basic C23733 for stronger local decoupling.
 gate driver.kicad_sch,C10,MPN,,CL05A475MP5NRNC,Use the user-selected stocked Basic C23733 for stronger local decoupling.
-gate driver.kicad_sch,L1,LCSC,C6824612,C42462944,Restore the agreed ZEPI.0630A.220MT selection after an incorrect interim change.
+gate driver.kicad_sch,L1,LCSC,C42462944,C22463831,Use user-approved SL0650-220M: exact 7.1mm x 6.6mm footprint, 3A rated, 5A saturation, 98mR DCR.
+gate driver.kicad_sch,L1,MPN,ZEPI.0630A.220MT,SL0650-220M,Use user-approved SL0650-220M: exact 7.1mm x 6.6mm footprint, 3A rated, 5A saturation, 98mR DCR.
 src/Core/Inc/stm32f4xx_hal_conf.h,HSE_VALUE,16000000U,12000000U,Match firmware clock calculations to the fitted 12MHz resonator.
 main controller.kicad_sch,USB1,LCSC,,C3025063,User-approved GCT USB4105-GF-A-060 right-angle 12-contact USB-C receptacle.
 main controller.kicad_sch,USB1,MPN,,USB4105-GF-A-060,User-approved GCT USB-C receptacle matching the A40-00119 footprint family.
