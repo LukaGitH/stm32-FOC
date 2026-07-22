@@ -15,7 +15,7 @@ Built using **PlatformIO**, **STM32 HAL/LL drivers**, and **FreeRTOS**, this pro
 - Torque Control
 - Speed Control
 - Position Control
-- Encoder auto callibration
+- Encoder auto calibration
 - Self-Commissioning for PI Gain current controller auto tuning
 - Sensorless mode using Sliding Mode Observer (SMO) & High Frequency Injection (HFI)
 - USB CDC interface for real-time tuning and monitoring  
@@ -32,7 +32,8 @@ Built using **PlatformIO**, **STM32 HAL/LL drivers**, and **FreeRTOS**, this pro
 - FreeRTOS (via PlatformIO package)  
 - VS Code + Serial Monitor for debugging
 - KiCad 9 (hardware project in [`STM32-FOC-hardware/ESC-BLDC`](STM32-FOC-hardware/ESC-BLDC))
-- ACTUATOR CONTROL APP in controller_app.zip
+- Controller application source in `lib/Controller_app/` (archive:
+  `controler_appv2.zip`)
 
 ---
 
@@ -78,7 +79,20 @@ Built using **PlatformIO**, **STM32 HAL/LL drivers**, and **FreeRTOS**, this pro
   `e_rad` → electrical angle (radian)  
   `m_deg` → mechanical angle (degree)  
 
-## UPDATE LOG
+## Hardware and production files
+
+The hardware project is KiCad-only. Open
+[`ESC-BLDC.kicad_pro`](STM32-FOC-hardware/ESC-BLDC/ESC-BLDC.kicad_pro) in KiCad
+9. The ready-to-upload JLCPCB BOM and CPL are in
+[`production/export/`](STM32-FOC-hardware/ESC-BLDC/production/export/).
+
+- [Hardware overview](STM32-FOC-hardware/README.md)
+- [Production workflow and validation](STM32-FOC-hardware/ESC-BLDC/production/README.md)
+- [Current component sourcing decisions](STM32-FOC-hardware/ESC-BLDC/production/component_sourcing_audit.md)
+- [Symmetry and divider review](STM32-FOC-hardware/ESC-BLDC/production/symmetry_and_sourcing_review.md)
+- [Original-versus-KiCad component comparison](STM32-FOC-hardware/ESC-BLDC/production/original_vs_kicad_component_comparison.csv)
+
+## Update log
 
 18-04-2026
 - Add MTPA and Field Weakening

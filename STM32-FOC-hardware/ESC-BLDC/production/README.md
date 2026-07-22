@@ -46,3 +46,10 @@ and assembly state.
 
 `symmetry_and_sourcing_review.md` records the second-pass check of matched
 component groups, divider ratios, and the remaining Extended selections.
+
+## Supporting decisions
+
+- `component_sourcing_audit.md` is the current selected-part list and records
+  the order-time checks.
+- `symmetry_and_sourcing_review.md` checks matched component groups, original
+  package sizes, and the divider-ratio decisions.
