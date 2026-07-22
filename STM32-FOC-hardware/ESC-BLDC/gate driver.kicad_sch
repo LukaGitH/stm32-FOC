@@ -14494,7 +14494,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae2f46cc-5f5b-48f0-8763-eb4ec440797d")
-		(property "LCSC" "C3870388"
+		(property "LCSC" "C23733"
 			(at 99.06 108.4072 0)
 			(hide yes)
 			(show_name no)
@@ -14504,6 +14504,27 @@
 					(size 1.27 1.27)
 				)
 			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 99.06 108.4072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "MPN" "CL05A475MP5NRNC"
+			(at 99.06 108.4072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "JLCPCB Class" "Basic"
+			(at 99.06 108.4072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
 		)
 		(property "Reference" "C10"
 			(at 101.346 113.2332 0)
@@ -14516,7 +14537,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2.2uF"
+		(property "Value" "4.7uF"
 			(at 96.774 107.8992 0)
 			(hide yes)
 			(show_name no)
@@ -14550,7 +14571,7 @@
 				)
 			)
 		)
-		(property "Description" "Chip capacitor, 2.2µF, 10%, 10V, 0402"
+		(property "Description" "4.7uF 10V X5R ±20% 0402 MLCC"
 			(at 99.06 108.4072 0)
 			(hide yes)
 			(show_name no)

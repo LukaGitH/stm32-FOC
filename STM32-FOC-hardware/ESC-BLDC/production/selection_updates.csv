@@ -35,6 +35,9 @@ main controller.kicad_sch,X1,LCSC,C91581,C2659482,Use in-stock Murata 12MHz SMD3
 main controller.kicad_sch,X1,MPN,,CSTNE12M0G55Z000R0,In-stock Murata 12MHz resonator compatible with the existing 3-pad footprint.
 gate driver.kicad_sch,C11,LCSC,C49055480,C1532,Use stocked Basic 22nF 50V X7R 0402 part that JLCPCB matches automatically.
 gate driver.kicad_sch,C11,MPN,,0402B223K500NT,Use stocked Basic 22nF 50V X7R 0402 part that JLCPCB matches automatically.
+gate driver.kicad_sch,C10,Value,2.2uF,4.7uF,Use the user-selected stocked Basic C23733 for stronger local decoupling.
+gate driver.kicad_sch,C10,LCSC,C3870388,C23733,Use the user-selected stocked Basic C23733 for stronger local decoupling.
+gate driver.kicad_sch,C10,MPN,,CL05A475MP5NRNC,Use the user-selected stocked Basic C23733 for stronger local decoupling.
 gate driver.kicad_sch,L1,LCSC,C42462944,C6824612,Use the user-confirmed in-stock 6.8mm x 6.8mm 22uH option.
 src/Core/Inc/stm32f4xx_hal_conf.h,HSE_VALUE,16000000U,12000000U,Match firmware clock calculations to the fitted 12MHz resonator.
 main controller.kicad_sch,USB1,LCSC,,C3025063,User-approved GCT USB4105-GF-A-060 right-angle 12-contact USB-C receptacle.

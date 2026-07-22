@@ -12,7 +12,7 @@ the KiCad source files while the project is open in KiCad.
 | D3–D11 | 1N4148WT, SOD-523 | 1N4148WT (JSMSEMI) | C917006 | In stock |
 | U2 | LP2985-33DBVR, SOT-23-5 / DBV | LP2985-33DBVR (Texas Instruments) | C95414 | In stock |
 | U6 | STM32F405RGT6, LQFP-64 10 × 10 mm | STM32F405RGT6 (STMicroelectronics) | C15742 | Verify live stock at order placement |
-| C10 | 2.2 µF, 10 V, 0402 | CC0402KRX6S6BB225 (YAGEO), X6S ±10% | C3870388 | Extended, in stock at review |
+| C10 | 4.7 µF, 10 V, 0402 | CL05A475MP5NRNC (Samsung), X5R ±20% | C23733 | Basic, in stock |
 | C11 | 22 nF, 50 V, 0402 | 0402B223K500NT (FH), X7R ±10% | C1532 | Basic, in stock |
 | C32 | 10 nF, 50 V, 0402 | CL05B103KB5NNNC (Samsung), X7R ±10% | C15195 | Basic |
 
