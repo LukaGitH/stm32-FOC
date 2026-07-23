@@ -2,7 +2,7 @@
 
 This fork's hardware source is KiCad-only.
 
-- Open [`ESC-BLDC/ESC-BLDC.kicad_pro`](ESC-BLDC/ESC-BLDC.kicad_pro) in KiCad 9.
+- Open [`ESC-BLDC/ESC-BLDC.kicad_pro`](ESC-BLDC/ESC-BLDC.kicad_pro) in KiCad 10.
 - The complete schematic hierarchy and PCB are in `ESC-BLDC/`.
 - Ready-to-upload JLCPCB [BOM and CPL files](ESC-BLDC/production/export/) are
   in `ESC-BLDC/production/export/`.
