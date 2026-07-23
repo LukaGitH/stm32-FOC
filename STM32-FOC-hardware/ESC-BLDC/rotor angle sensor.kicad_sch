@@ -1577,11 +1577,18 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "1c59c09e-53a0-4861-9a8c-ccc57f55db9b")
+		(property "DNP" "Yes"
+			(at 68.58 116.0272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
 		(property "Reference" "R29"
 			(at 73.66 116.0272 90)
 			(show_name no)
@@ -1595,7 +1602,6 @@
 		)
 		(property "Value" "0R"
 			(at 67.31 119.8372 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1736,6 +1742,7 @@
 		)
 		(property "ALTIUM_VALUE" "0R(0402)"
 			(at 60.96 116.0272 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1855,7 +1862,6 @@
 		)
 		(property "Value" "0R"
 			(at 67.31 122.3772 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1996,6 +2002,7 @@
 		)
 		(property "ALTIUM_VALUE" "0R(0402)"
 			(at 60.96 118.5672 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2104,7 +2111,6 @@
 		)
 		(property "Value" "100nF"
 			(at 203.454 107.8992 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2149,6 +2155,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF(0402)"
 			(at 208.026 115.7732 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2375,7 +2382,7 @@
 			(do_not_autoplace no)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "MPN" ""
+		(property "MPN" "SM05B-SRSS-TB"
 			(at 53.34 121.1072 0)
 			(hide yes)
 			(show_name no)
@@ -2393,7 +2400,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "JST_SH-05P"
+		(property "Value" "SM05B-SRSS-TB"
 			(at 48.26 123.6472 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2491,11 +2498,18 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "6f6fa5a2-c9ad-49ef-a35c-cf1b8cd527a3")
+		(property "DNP" "Yes"
+			(at 68.58 113.4872 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
 		(property "Reference" "R28"
 			(at 73.66 113.4872 90)
 			(show_name no)
@@ -2509,7 +2523,6 @@
 		)
 		(property "Value" "0R"
 			(at 67.31 117.2972 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2650,6 +2663,7 @@
 		)
 		(property "ALTIUM_VALUE" "0R(0402)"
 			(at 60.96 113.4872 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3259,7 +3273,6 @@
 		)
 		(property "Value" "100nF"
 			(at 66.294 90.1192 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3304,6 +3317,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF(0402)"
 			(at 70.866 97.9932 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

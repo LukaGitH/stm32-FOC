@@ -35,6 +35,20 @@ U6 are exact manufacturer-part matches, not replacements.
 |---|---|---|---|
 | P1, P2 | Amass XT30PW-M30.G.Y | C431092 | 2-pin male XT30 power connector; verify pad geometry against the board footprint before ordering. |
 
+## Manual connector sourcing
+
+These connectors remain DNP in the JLCPCB BOM/CPL and are to be bought and
+fitted manually.
+
+| References | Selected JST part | Source |
+|---|---|---|
+| P7, P8 | SM02B-SRSS-TB, 2-position, 1.0 mm, right-angle SMD | DigiKey 926708 |
+| P9 | SM04B-SRSS-TB, 4-position, 1.0 mm, right-angle SMD | DigiKey 926710 |
+| P6 | SM05B-SRSS-TB, 5-position, 1.0 mm, right-angle SMD | DigiKey 926711 |
+
+P10 remains an unpopulated 2.54 mm through-hole SWD header. It cannot use the
+SM04B-SRSS-TB without replacing its PCB footprint and revising the layout.
+
 ## Requires circuit decision before sourcing
 
 - R7/R8: DRV8302 OC_ADJ divider selected for an approximately 20 A hot-device
@@ -61,9 +75,9 @@ U6 are exact manufacturer-part matches, not replacements.
 
 ## Excluded by design
 
-J1 and J2 are solder jumpers. P3, P4, and P5 are solder pads; R30 is a manual
-solder bridge; P6–P9 are unpopulated connector footprints; and P10 is not
-fitted. They are DNP/not in BOM and need no LCSC purchase assignment.
+J1 and J2 are solder jumpers. P3, P4, and P5 are solder pads; R28–R30 are
+unpopulated zero-ohm links; P6–P9 are unpopulated connector footprints; and
+P10 is not fitted. They are DNP/not in BOM and need no LCSC purchase assignment.
 
 ## CAN filter matching
 

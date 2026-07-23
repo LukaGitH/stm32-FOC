@@ -25,8 +25,8 @@ Outputs:
 
 - 5 schematic sheets parsed successfully
 - 131 placed non-power references found, including DNP/manual items
-- 120 fitted references, all with LCSC assignments
-- 50 grouped JLCPCB BOM rows and 120 matching CPL rows
+- 118 fitted references, all with LCSC assignments
+- 49 grouped JLCPCB BOM rows and 118 matching CPL rows
 - 0 validation errors or warnings
 
 The BOM exporter reads `Value`, `Footprint`, `Manufacturer`, `MPN`, `LCSC`,

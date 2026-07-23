@@ -2596,7 +2596,6 @@
 		)
 		(property "Value" "100nF"
 			(at 73.914 112.9792 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2641,6 +2640,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF(0402)"
 			(at 78.486 120.8532 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2940,7 +2940,7 @@
 			(do_not_autoplace no)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "MPN" ""
+		(property "MPN" "SM02B-SRSS-TB"
 			(at 177.8 143.9672 0)
 			(hide yes)
 			(show_name no)
@@ -2958,7 +2958,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "JST_SH-02P"
+		(property "Value" "SM02B-SRSS-TB"
 			(at 172.72 154.1272 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3172,7 +3172,6 @@
 		)
 		(property "Value" "220pF"
 			(at 164.592 101.0412 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3217,6 +3216,7 @@
 		)
 		(property "ALTIUM_VALUE" "560pF(0402)"
 			(at 167.386 108.1532 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3472,7 +3472,6 @@
 		)
 		(property "Value" "100R"
 			(at 174.752 92.4052 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3613,6 +3612,7 @@
 		)
 		(property "ALTIUM_VALUE" "100R(0402)"
 			(at 177.546 96.4692 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3721,7 +3721,6 @@
 		)
 		(property "Value" "220pF"
 			(at 164.592 90.8812 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3766,6 +3765,7 @@
 		)
 		(property "ALTIUM_VALUE" "560pF(0402)"
 			(at 167.386 97.9932 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3990,7 +3990,6 @@
 		)
 		(property "Value" "100R"
 			(at 174.752 102.5652 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4131,6 +4130,7 @@
 		)
 		(property "ALTIUM_VALUE" "100R(0402)"
 			(at 177.546 106.6292 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4240,7 +4240,7 @@
 			(do_not_autoplace no)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "MPN" ""
+		(property "MPN" "SM02B-SRSS-TB"
 			(at 177.8 128.7272 0)
 			(hide yes)
 			(show_name no)
@@ -4258,7 +4258,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "JST_SH-02P"
+		(property "Value" "SM02B-SRSS-TB"
 			(at 172.72 138.8872 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4365,7 +4365,6 @@
 		)
 		(property "Value" "4k7"
 			(at 95.758 115.5192 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4506,6 +4505,7 @@
 		)
 		(property "ALTIUM_VALUE" "4k7(0402)"
 			(at 97.282 123.3932 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

@@ -14,6 +14,7 @@ STM32-FOC-hardware/ESC-BLDC/production/*_verification.csv
 STM32-FOC-hardware/ESC-BLDC/production/unresolved_components.csv
 STM32-FOC-hardware/ESC-BLDC/production/export/*_summary.txt
 stm32_FOC_JLCPCB_changes_summary.md
+*:Zone.Identifier
 
 # Superseded Altium source files are intentionally kept out of this KiCad-only fork.
 STM32-FOC-hardware.zip

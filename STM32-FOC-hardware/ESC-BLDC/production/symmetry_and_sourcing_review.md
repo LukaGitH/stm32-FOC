@@ -1,13 +1,13 @@
 # Symmetry and sourcing review — 2026-07-22
 
-This is a second pass over the 120 fitted references in the KiCad production
+This is a second pass over the 118 fitted references in the KiCad production
 package. The source comparison spreadsheet remains the one-to-one record of
 every original Altium reference, value, package, and current KiCad selection:
 `original_vs_kicad_component_comparison.csv`.
 
 ## Result
 
-- All 120 fitted references have an LCSC assignment and corresponding CPL row.
+- All 118 fitted references have an LCSC assignment and corresponding CPL row.
 - All repeated phase-channel components use the same value, footprint, and LCSC
   selection within their group.
 - The KiCad footprints preserve the original nominal package sizes for the

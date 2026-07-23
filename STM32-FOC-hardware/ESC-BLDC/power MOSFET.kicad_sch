@@ -7850,7 +7850,6 @@
 		)
 		(property "Value" "33k"
 			(at 70.358 120.5992 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7991,6 +7990,7 @@
 		)
 		(property "ALTIUM_VALUE" "39k(0402)"
 			(at 71.882 128.4732 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8052,7 +8052,6 @@
 		)
 		(property "Value" "1uF"
 			(at 198.374 52.0192 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8229,6 +8228,7 @@
 		)
 		(property "ALTIUM_VALUE" "1µF"
 			(at 202.946 59.8932 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8322,7 +8322,6 @@
 		)
 		(property "Value" "10uF"
 			(at 117.094 34.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8439,6 +8438,7 @@
 		)
 		(property "ALTIUM_VALUE" "10µF"
 			(at 121.666 42.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8946,7 +8946,6 @@
 		)
 		(property "Value" "10uF"
 			(at 56.134 34.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9063,6 +9062,7 @@
 		)
 		(property "ALTIUM_VALUE" "10µF"
 			(at 60.706 42.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9222,7 +9222,6 @@
 		)
 		(property "Value" "10R"
 			(at 27.686 111.9632 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9315,6 +9314,7 @@
 		)
 		(property "ALTIUM_VALUE" "10R"
 			(at 27.686 111.9632 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9606,7 +9606,6 @@
 		)
 		(property "Value" "33k"
 			(at 148.844 34.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9759,6 +9758,7 @@
 		)
 		(property "ALTIUM_VALUE" "33k"
 			(at 150.876 42.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9807,7 +9807,6 @@
 		)
 		(property "Value" "2k"
 			(at 255.778 140.9192 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9948,6 +9947,7 @@
 		)
 		(property "ALTIUM_VALUE" "2k2(0402)"
 			(at 257.302 148.7932 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10131,7 +10131,6 @@
 		)
 		(property "Value" "10uF"
 			(at 66.294 34.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10248,6 +10247,7 @@
 		)
 		(property "ALTIUM_VALUE" "10µF"
 			(at 70.866 42.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10400,7 +10400,6 @@
 		)
 		(property "Value" "100nF"
 			(at 175.514 140.9192 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10445,6 +10444,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF"
 			(at 180.086 148.7932 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10744,7 +10744,6 @@
 		)
 		(property "Value" "2.2uF"
 			(at 254.254 52.0192 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10921,6 +10920,7 @@
 		)
 		(property "ALTIUM_VALUE" "2.2µF"
 			(at 258.826 59.8932 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11277,7 +11277,6 @@
 		)
 		(property "Value" "10uF"
 			(at 96.774 34.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11394,6 +11393,7 @@
 		)
 		(property "ALTIUM_VALUE" "10µF"
 			(at 101.346 42.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12246,7 +12246,6 @@
 		)
 		(property "Value" "10uF"
 			(at 106.934 34.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12363,6 +12362,7 @@
 		)
 		(property "ALTIUM_VALUE" "10µF"
 			(at 111.506 42.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12590,7 +12590,6 @@
 		)
 		(property "Value" "10uF"
 			(at 127.254 34.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12707,6 +12706,7 @@
 		)
 		(property "ALTIUM_VALUE" "10µF"
 			(at 131.826 42.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12933,7 +12933,6 @@
 		)
 		(property "Value" "2k"
 			(at 70.358 140.9192 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13074,6 +13073,7 @@
 		)
 		(property "ALTIUM_VALUE" "2k2(0402)"
 			(at 71.882 148.7932 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13627,7 +13627,6 @@
 		)
 		(property "Value" "1k"
 			(at 202.692 33.9852 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13768,6 +13767,7 @@
 		)
 		(property "ALTIUM_VALUE" "1k(0402)"
 			(at 205.486 38.0492 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14308,7 +14308,6 @@
 		)
 		(property "Value" "10uF"
 			(at 45.974 34.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14425,6 +14424,7 @@
 		)
 		(property "ALTIUM_VALUE" "10µF"
 			(at 50.546 42.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14813,7 +14813,6 @@
 		)
 		(property "Value" "2k"
 			(at 148.844 54.5592 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14966,6 +14965,7 @@
 		)
 		(property "ALTIUM_VALUE" "2k"
 			(at 150.876 62.4332 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15463,7 +15463,6 @@
 		)
 		(property "Value" "100nF"
 			(at 84.074 140.9192 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15508,6 +15507,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF"
 			(at 88.646 148.7932 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15732,7 +15732,6 @@
 		)
 		(property "Value" "2k"
 			(at 161.798 140.9192 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15873,6 +15872,7 @@
 		)
 		(property "ALTIUM_VALUE" "2k2(0402)"
 			(at 163.322 148.7932 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16136,7 +16136,6 @@
 		)
 		(property "Value" "10R"
 			(at 213.106 132.2832 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16229,6 +16228,7 @@
 		)
 		(property "ALTIUM_VALUE" "10R"
 			(at 213.106 132.2832 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16337,7 +16337,6 @@
 		)
 		(property "Value" "2.2uF"
 			(at 57.912 95.9612 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16490,6 +16489,7 @@
 		)
 		(property "ALTIUM_VALUE" "2.2µF"
 			(at 60.706 103.0732 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17385,7 +17385,6 @@
 		)
 		(property "Value" "100nF"
 			(at 157.734 54.5592 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17430,6 +17429,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF"
 			(at 162.306 62.4332 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18369,7 +18369,6 @@
 		)
 		(property "Value" "2.2uF"
 			(at 243.332 95.9612 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18522,6 +18521,7 @@
 		)
 		(property "ALTIUM_VALUE" "2.2µF"
 			(at 246.126 103.0732 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18858,7 +18858,6 @@
 		)
 		(property "Value" "10R"
 			(at 119.126 111.9632 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18951,6 +18950,7 @@
 		)
 		(property "ALTIUM_VALUE" "10R"
 			(at 119.126 111.9632 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19060,7 +19060,6 @@
 		)
 		(property "Value" "10uF"
 			(at 35.814 34.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19177,6 +19176,7 @@
 		)
 		(property "ALTIUM_VALUE" "10µF"
 			(at 40.386 42.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19676,7 +19676,6 @@
 		)
 		(property "Value" "33k"
 			(at 161.798 120.5992 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19817,6 +19816,7 @@
 		)
 		(property "ALTIUM_VALUE" "39k(0402)"
 			(at 163.322 128.4732 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20383,7 +20383,6 @@
 		)
 		(property "Value" "10uF"
 			(at 76.454 34.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20500,6 +20499,7 @@
 		)
 		(property "ALTIUM_VALUE" "10µF"
 			(at 81.026 42.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20659,7 +20659,6 @@
 		)
 		(property "Value" "10R"
 			(at 213.106 111.9632 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20752,6 +20751,7 @@
 		)
 		(property "ALTIUM_VALUE" "10R"
 			(at 213.106 111.9632 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20956,7 +20956,6 @@
 		)
 		(property "Value" "10R"
 			(at 119.126 132.2832 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21049,6 +21048,7 @@
 		)
 		(property "ALTIUM_VALUE" "10R"
 			(at 119.126 132.2832 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21164,7 +21164,6 @@
 		)
 		(property "Value" "10R"
 			(at 27.686 132.2832 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21257,6 +21256,7 @@
 		)
 		(property "ALTIUM_VALUE" "10R"
 			(at 27.686 132.2832 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22064,7 +22064,6 @@
 		)
 		(property "Value" "2.2uF"
 			(at 149.352 95.9612 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22217,6 +22216,7 @@
 		)
 		(property "ALTIUM_VALUE" "2.2µF"
 			(at 152.146 103.0732 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22842,7 +22842,6 @@
 		)
 		(property "Value" "100nF"
 			(at 269.494 140.9192 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22887,6 +22886,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF"
 			(at 274.066 148.7932 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23123,7 +23123,6 @@
 		)
 		(property "Value" "10nF"
 			(at 244.094 57.0992 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23300,6 +23299,7 @@
 		)
 		(property "ALTIUM_VALUE" "10nF"
 			(at 248.666 64.9732 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23349,7 +23349,6 @@
 		)
 		(property "Value" "10uF"
 			(at 86.614 34.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23466,6 +23465,7 @@
 		)
 		(property "ALTIUM_VALUE" "10µF"
 			(at 91.186 42.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23699,7 +23699,6 @@
 		)
 		(property "Value" "33k"
 			(at 255.778 120.5992 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23840,6 +23839,7 @@
 		)
 		(property "ALTIUM_VALUE" "39k(0402)"
 			(at 257.302 128.4732 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

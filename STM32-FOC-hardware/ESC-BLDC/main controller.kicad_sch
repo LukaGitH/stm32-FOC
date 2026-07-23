@@ -5940,7 +5940,6 @@
 		)
 		(property "Value" "12k"
 			(at 57.912 143.2052 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6081,6 +6080,7 @@
 		)
 		(property "ALTIUM_VALUE" "12k(0402)"
 			(at 60.706 147.2692 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7190,7 +7190,6 @@
 		)
 		(property "Value" "100nF"
 			(at 208.534 158.6992 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7235,6 +7234,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF(0402)"
 			(at 213.106 166.5732 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8115,7 +8115,6 @@
 		)
 		(property "Value" "100nF"
 			(at 190.754 158.6992 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8160,6 +8159,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF(0402)"
 			(at 195.326 166.5732 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8458,7 +8458,6 @@
 		)
 		(property "Value" "100R"
 			(at 96.012 46.6852 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8599,6 +8598,7 @@
 		)
 		(property "ALTIUM_VALUE" "100R(0402)"
 			(at 98.806 50.7492 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8707,7 +8707,6 @@
 		)
 		(property "Value" "100nF"
 			(at 112.014 133.2992 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8752,6 +8751,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF(0402)"
 			(at 116.586 141.1732 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8976,7 +8976,6 @@
 		)
 		(property "Value" "100nF"
 			(at 241.554 105.3592 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9021,6 +9020,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF(0402)"
 			(at 246.126 113.2332 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9245,7 +9245,6 @@
 		)
 		(property "Value" "100R"
 			(at 96.012 56.8452 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9386,6 +9385,7 @@
 		)
 		(property "ALTIUM_VALUE" "100R(0402)"
 			(at 98.806 60.9092 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9568,7 +9568,6 @@
 		)
 		(property "Value" "100nF"
 			(at 188.214 31.6992 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9613,6 +9612,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF(0402)"
 			(at 192.786 39.5732 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10207,7 +10207,6 @@
 		)
 		(property "Value" "100nF"
 			(at 223.774 105.3592 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10252,6 +10251,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF(0402)"
 			(at 228.346 113.2332 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11006,7 +11006,7 @@
 			(do_not_autoplace no)
 			(effects (font (size 1.27 1.27)))
 		)
-		(property "MPN" ""
+		(property "MPN" "SM04B-SRSS-TB"
 			(at 175.26 60.1472 0)
 			(hide yes)
 			(show_name no)
@@ -11024,7 +11024,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "JST_SH-04P"
+		(property "Value" "SM04B-SRSS-TB"
 			(at 170.18 62.6872 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11137,7 +11137,6 @@
 		)
 		(property "Value" "1k"
 			(at 44.958 161.2392 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11278,6 +11277,7 @@
 		)
 		(property "ALTIUM_VALUE" "1k(0402)"
 			(at 46.482 169.1132 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11460,7 +11460,6 @@
 		)
 		(property "Value" "100nF"
 			(at 139.954 69.7992 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11505,6 +11504,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF(0402)"
 			(at 144.526 77.6732 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12161,7 +12161,6 @@
 		)
 		(property "Value" "12k"
 			(at 57.912 135.5852 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12302,6 +12301,7 @@
 		)
 		(property "ALTIUM_VALUE" "12k(0402)"
 			(at 60.706 139.6492 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12666,7 +12666,6 @@
 		)
 		(property "Value" "100nF"
 			(at 142.494 171.3992 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12711,6 +12710,7 @@
 		)
 		(property "ALTIUM_VALUE" "100nF(0402)"
 			(at 147.066 179.2732 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
